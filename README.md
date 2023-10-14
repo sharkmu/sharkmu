@@ -1,6 +1,6 @@
 😄 Hello! I'm Sam, a passionate hobby developer from Hungary.
 
-🌱 I’m currently learning game development.
+🌱 I’m currently in high school
 
 👯 I’m always open to project collaborations.
 
