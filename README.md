@@ -12,5 +12,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharkmu&layout=compact&theme=tokyonight" alt="Your Top Languages" />
 
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=sharkmu.sharkmu" alt="visitors">
 
 😄 Thanks for stopping by! Have a great day!
