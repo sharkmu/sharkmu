@@ -10,11 +10,6 @@
 
 
 ## 🛠️ Skills
-- Desktop Application Development
-- Desktop Application Design
-- Web development
-- Discord Application Development (discord.py)
-- etc.
 
 ### Languages
 
