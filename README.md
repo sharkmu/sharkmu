@@ -6,7 +6,7 @@
 
 👨‍💻 I am open to project contributions.
 
-💼 I am interested in businesses and finance.
+💼 I am interested in coding, business, investing and finance.
 
 
 ## 🛠️ Skills
