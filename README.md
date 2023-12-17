@@ -37,8 +37,7 @@
     <br />
     <img src="https://github-readme-stats.vercel.app/api?username=sharkmu&show_icons=true&theme=tokyonight" alt="Your GitHub Stats" />
     <br />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharkmu&layout=compact&theme=tokyonight" alt="Your Top Languages" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=sharkmu&theme=dark&background=000000)" alt="Your GitHub Streaks" />
     <br />
     <img src="https://visitor-badge.laobi.icu/badge?page_id=sharkmu.sharkmu" alt="visitors">
 </div>
