@@ -28,10 +28,17 @@ I have made several smaller and bigger projects. Unfortunately I have a ton of d
 
 ## Cool stats
 Amount of stars I've got so far: ![GitHub Stars](https://img.shields.io/github/stars/sharkmu)
+</br>
 Profile views (most of it was me :D): <img src="https://visitor-badge.laobi.icu/badge?page_id=sharkmu.sharkmu" alt="visitors">
 </br>
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharkmu&langs_count=1000&layout=compact&theme=radical)
+<p></p>
+
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sharkmu&card_width=450&theme=github_dark_dimmed)
+<p></p>
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sharkmu&show_icons=true&locale=en&card_width=450&theme=github_dark_dimmed)
+<p></p>
+
 ![Trophy](https://github-profile-trophy.vercel.app/?username=sharkmu&theme=gitdimmed)
